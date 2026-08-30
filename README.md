@@ -4,6 +4,8 @@
 
 A statistical and behavioural‑science analysis exploring how alcohol consumption and co‑occurring mental health conditions (major depression, nicotine dependence, and personality disorders) influence the likelihood of antisocial personality disorder traits in young adults. Includes correlation analysis, data visualisation, and interpretation of psychiatric risk factors.
 
+This project uses the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) dataset, which is a large, nationally representative federal study sponsored by the National Institute on Alcohol Abuse and Alcoholism (NIAAA) that measures alcohol, drug, and psychiatric disorders within the United States.
+
 ### Skills Learned
 - Applying statistical analysis in R to explore behavioural and psychological relationships.
 - Interpreting complex datasets involving mental health, substance use, and personality disorders.
